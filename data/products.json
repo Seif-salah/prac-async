@@ -1,0 +1,73 @@
+[
+  {
+    "id": 0,
+    "name": "Smart Watch",
+    "price": "$49.99",
+    "description": "A stylish smart watch with fitness tracking and notifications.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 1,
+    "name": "Bluetooth Headphones",
+    "price": "$29.99",
+    "description": "Wireless headphones with rich sound and noise cancellation.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mouse",
+    "price": "$19.99",
+    "description": "Ergonomic gaming mouse with customizable DPI and buttons.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Keyboard",
+    "price": "$34.99",
+    "description": "Slim wireless keyboard with silent keys and long battery life.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Laptop Stand",
+    "price": "$15.99",
+    "description": "Adjustable laptop stand made of durable aluminum.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "USB-C Hub",
+    "price": "$22.49",
+    "description": "Multiport USB-C hub with HDMI, USB 3.0, and card reader.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "name": "External Hard Drive",
+    "price": "$59.99",
+    "description": "1TB portable hard drive with fast data transfer.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 7,
+    "name": "HD Webcam",
+    "price": "$39.99",
+    "description": "1080p HD webcam with built-in stereo microphone.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "name": "Phone Tripod",
+    "price": "$9.99",
+    "description": "Flexible tripod with Bluetooth remote control.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 9,
+    "name": "LED Desk Lamp",
+    "price": "$12.99",
+    "description": "Modern LED desk lamp with 3 brightness settings.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
+
