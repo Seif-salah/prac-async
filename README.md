@@ -26,7 +26,7 @@ This homework consists of building a full local application using Node.js. It is
 │ │ ├── product.html
 │ │ └── card.html
 │
-└── README.md
+
 ```
 ---
 
